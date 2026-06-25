@@ -1,0 +1,31 @@
+name: env_SrV6O11_mag_str        # name of your conda environment
+channels:
+  - conda-forge           # main source for up-to-date, cross-platform packages
+  - defaults              # fallback (official Anaconda channel)
+
+dependencies:
+  # Core Python
+  - python=3.10
+
+  # Common scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+
+  # For data I/O and notebooks
+  - jupyterlab
+  - openpyxl              # Excel file support
+  - ipywidgets            # interactive notebooks
+
+  # For version control integration and linting
+  - git
+  - black
+  - flake8
+
+  # Optional: install extra packages via pip if not on conda
+  - pip
+  - pip:
+      - tqdm              # progress bars
+      - scikit-learn      # ML tools (optional)
