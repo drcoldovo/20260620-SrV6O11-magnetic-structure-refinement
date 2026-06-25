@@ -1,0 +1,44 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda environments (local)
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# IDE folders
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+
+# Data folder (optional)
+# Track small example files if you want, ignore large datasets
+#data/*.csv
+
+# Keep README.md in data folder if you have one
+!data/README.md
+
+# Results / figures folder (optional)
+results/
+local_figures/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
