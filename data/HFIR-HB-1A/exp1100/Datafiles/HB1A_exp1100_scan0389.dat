@@ -1,0 +1,36 @@
+# scan = 389
+# date = 10/1/2026
+# time = 6:51:20 PM
+# proposal = 38327
+# experiment = Magnetic Structure of an Intermetallic V-based Compound
+# experiment_number = 1100
+# command = scan h 0.3 0.6 0.02 k 0.45 l 0.5 preset mcu 30
+# builtin_command = scan h 0.3 0.6 0.02 k 0.45 l 0.5 preset mcu 30
+# users = Tong Chen, Wei Tian, Zehao Wang
+# local_contact = Wei Tian, Eleanor Clements
+# scan_title = 4K new peak h-scan
+# monochromator = PG002
+# analyzer = Pg002
+# sense = +-+
+# collimation = 40-40-40-80
+# samplename = SrVO
+# sampletype = crystal
+# samplemosaic = 30.000000
+# latticeconstants = 5.768008,5.768411,13.100470,89.997118,89.999451,119.992546
+# ubmatrix = 0.182052,0.090982,-0.031741,0.083197,0.036701,0.069393,-0.002363,-0.174470,-0.001949
+# mode = 0
+# plane_normal = 0.000000,0.000000,0.000000
+# ubconf = UBmatrix_two_peak.dat
+# preset_type = normal 
+# preset_channel = mcu
+# preset_value = 30.000000
+# def_x = h
+# def_y = detector
+# col_headers = 
+#   Pt.          h          k          l       time   detector    monitor        mcu         m2        chi     sample        phi      omega     2theta        sgl        sgu   slitb_bt   slitb_lf   slitb_rt   slitb_tp   slita_bt   slita_lf   slita_rt   slita_tp         a1         a2          e         ei   vti_temp sample_temp ccr_status
+      1     0.2999     0.4499     0.4998     27.815     28.000 515233.000     30.000    41.5367    36.0365     4.0000   136.2980    -9.3359   -18.6666     0.0409     0.0130    23.0000     4.0000     6.0000    23.0000    26.0000     5.0000     4.0000    26.0000    20.7713    41.5420     0.0000    14.4503     4.4935     4.4935     0.000
+      2     0.3200     0.4500     0.4998      0.000      0.000      0.000     30.000    41.5367    35.1350     4.0000   136.9590    -9.5500   -19.1003     0.0409     0.0130    23.0000     4.0000     6.0000    23.0000    26.0000     5.0000     4.0000    26.0000    20.7712    41.5420     0.0000    14.4503     4.4971     4.4971     0.000
+# Sum of Counts = 28
+# Center of Mass = 0.299900+/-0.080152
+# Full Width Half-Maximum = 0.000000+/-NaN
+# 6:52:21 PM  10/1/2026   scan stopped!!

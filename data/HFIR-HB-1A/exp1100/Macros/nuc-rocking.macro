@@ -1,0 +1,60 @@
+preset mcu 15
+
+br 0 0 6
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+ 
+br 0 0 -6
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br 2 0 0
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+ 
+br -2 0 0
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+ 
+br 2 0 3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br -2 0 3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br 2 0 -3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br -2 0 -3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br  0 2 -3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br 0 2 3
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+preset mcu 60
+
+br 3 -1 2
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+br 3 -1 -2
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+
+
+
+
+
+
+
+ 

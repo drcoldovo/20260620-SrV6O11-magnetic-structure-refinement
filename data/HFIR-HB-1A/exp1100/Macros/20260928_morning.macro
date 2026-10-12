@@ -1,0 +1,13 @@
+br 1 0 0
+scantitle "(@(h) @(k) @(l)) L- scan , T = @(vti_temp.position)"
+ 
+scan h 1 k 0 l -0.15 4.15 0.01 preset mcu 30
+
+
+drive sample 4
+wait 900
+
+br 1 0 0
+scantitle "(@(h) @(k) @(l)) L- scan , T = @(vti_temp.position)"
+ 
+scan h 1 k 0 l -0.15 4.15 0.01 preset mcu 30
