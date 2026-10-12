@@ -1,0 +1,33 @@
+
+drive sample 4
+wait 900
+
+br 1 0 0
+
+defxy vti_temp  detector
+scantitle "Temp scan while warming (@(h) @(k) @(l))"
+
+scanon
+
+ 
+loop i=4, 100 2
+
+drive sample %i 
+wait 60
+ 
+stepbegin
+count preset mcu 120
+ 
+stepend
+
+endloop
+
+scanoff
+
+ 
+
+
+ 
+
+
+ 

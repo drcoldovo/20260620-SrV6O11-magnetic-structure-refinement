@@ -1,0 +1,17 @@
+
+br 0 0 6
+
+scantitle "T-scan of (@(h) @(k) @(l)) warming"
+
+scanon
+
+loop i = 1,180,1
+
+drive sample %i
+wait 30
+stepbegin
+count preset mcu 30
+stepend
+ 
+endloop
+scanoff

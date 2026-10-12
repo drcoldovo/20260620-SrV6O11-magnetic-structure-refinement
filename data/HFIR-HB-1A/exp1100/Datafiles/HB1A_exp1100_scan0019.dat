@@ -1,0 +1,35 @@
+# scan = 19
+# date = 9/27/2026
+# time = 1:34:06 PM
+# proposal = 38327
+# experiment = Magnetic Structure of an Intermetallic V-based Compound
+# experiment_number = 1100
+# command = scanrel phi 1 -1 0.1
+# builtin_command = scan phi @(phi)+1 @(phi)+-1 0.100000
+# users = Tong Chen, Wei Tian, Zehao Wang
+# local_contact = Wei Tian, Eleanor Clements
+# scan_title = align (2 0 0) phi-scan baseT
+# monochromator = PG002
+# analyzer = Pg002
+# sense = +-+
+# collimation = 40-40-40-80
+# samplename = SrVO
+# sampletype = crystal
+# samplemosaic = 30.000000
+# latticeconstants = 5.768000,5.768000,13.100000,90.000000,90.000000,120.000000
+# ubmatrix = 0.182068,0.091009,-0.031738,0.083199,0.036703,0.069398,-0.002377,-0.174490,-0.001956
+# mode = 0
+# plane_normal = 0.000000,0.000000,0.000000
+# ubconf = /C/SPICE/User/exp1100/UBConf/UB27Sep2026_111501AM.ini
+# preset_type = normal 
+# preset_channel = mcu
+# preset_value = 3.000000
+# def_x = phi
+# def_y = detector
+# col_headers = 
+#   Pt.        phi       time   detector    monitor        mcu         m2        chi     sample      omega     2theta        sgl        sgu   slitb_bt   slitb_lf   slitb_rt   slitb_tp   slita_bt   slita_lf   slita_rt   slita_tp         a1         a2          h          k          l          e         ei   vti_temp sample_temp ccr_status
+      1   156.4515      0.000      0.000      0.000      3.000    41.5367     0.6800     4.0000   -28.4543   -56.9075     0.0409     0.0130    23.0000     4.0000     6.0000    23.0000    26.0000     5.0000     4.0000    26.0000    20.7707    41.5419     1.9992     0.0010    -0.0924     0.0000    14.4503     5.5111     5.5111     0.000
+# Sum of Counts = 0
+# Center of Mass = NaN+/-NaN
+# Full Width Half-Maximum = NaN+/-NaN
+# 1:34:24 PM  9/27/2026   scan stopped!!

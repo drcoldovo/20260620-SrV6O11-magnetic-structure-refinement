@@ -1,0 +1,37 @@
+drive sample 100
+wait 900
+
+preset mcu 60
+
+loop i = 1, 5 1
+br 0 0 %i
+
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+endloop
+
+loop i = 0, 4 1
+br 1 0 %i
+
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+endloop
+
+ 
+br 2 0 1
+
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+ 
+
+br 2 -1 0
+
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+
+loop i = 1, 4 1
+br 0 1 %i
+
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position)"
+scanrel omega 1 -1 0.1
+endloop

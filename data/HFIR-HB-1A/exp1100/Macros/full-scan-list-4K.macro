@@ -1,0 +1,650 @@
+br -2.000 0.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 6.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 -1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -2.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -2.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -2.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 -2.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 -1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 -1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 -6.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 0.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 2.000 0.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 -5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 1.000 1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 2.000 -4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 2.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 2.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 2.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 -1.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 2.000 3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 1.000 0.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br 0.000 0.000 5.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 0.000 4.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 -2.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -2.000 0.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+
+br -1.000 2.000 -3.000
+scantitle "(@(h) @(k) @(l)) rocking, T = @(vti_temp.position) K"
+preset mcu 60
+scanrel omega 0.8 -0.8 0.1
+

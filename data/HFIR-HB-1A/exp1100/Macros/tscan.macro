@@ -1,0 +1,55 @@
+drive sample 30
+wait 30
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 40
+wait 30
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 50
+wait 30
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 60
+wait 30
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 70
+wait 30
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 75
+wait 15
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 77
+wait 15
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
+
+drive sample 80
+wait 15
+br 1 1 0
+preset mcu 30
+scantitle "Tscan (@(h) @(k) @(l)) , T = @(sample.position) K"
+scanrel omega 0.6 -0.6 0.1
