@@ -12,7 +12,7 @@ try:
 except NameError:
     ROOT = Path.cwd()  # console fallback
 
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT / "data/CSNS-HPND"
 DATA_5K = DATA_DIR / "NPD_5K.dat"
 DATA_60K = DATA_DIR / "NPD_60K.dat"
 DATA_100K = DATA_DIR / "NPD_100K.dat"

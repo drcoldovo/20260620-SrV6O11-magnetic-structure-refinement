@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mag2polSampleFile>
+    <version major="7" minor="2" patch="2"/>
+    <general source="neutron"/>
+    <sample>
+        <symmetry spaceGroup="P6_3m&apos;c&apos;" parentSpaceGroup="P63mc">
+            <magneticSymmetry numberOfIrreps="1" numberOfOperators="1" sphericalCoordinates="false" localSusceptibility="false" useBasisVectors="true" useIrrepsBasisVectors="false">
+                <propagationVector inBrillouinZone="false" qx="0" qy="0" qz="0"/>
+                <operators>
+                    <operator irrep="1" symmX="x" symmY="y" symmZ="z" symmU="u" symmV="v" symmW="w" phase="0"/>
+                </operators>
+            </magneticSymmetry>
+        </symmetry>
+        <cellParameters a="5.76" b="5.76" c="13.08" alpha="90" beta="90" gamma="120"/>
+        <atoms sites="10">
+            <atom label="SR" userDefined="false" rigidBody="false">
+                <position x="0.333333" y="0.666667" z="0.254"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="0" green="0" blue="255"/>
+            </atom>
+            <atom label="MV3" userDefined="false" rigidBody="false">
+                <position x="0.505" y="0.495" z="0.005"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <magneticMoment Rx="2.13" Ry="1.11" Rz="0" Ix="0" Iy="0" Iz="0" phase="0"/>
+                <irrep Rx="1" Ry="1" Rz="1" Ix="1" Iy="1" Iz="1"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="0" blue="0" spinRed="255" spinGreen="0" spinBlue="0"/>
+            </atom>
+            <atom label="MV3" userDefined="false" rigidBody="false">
+                <position x="0" y="0" z="0.149"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <magneticMoment Rx="1.92" Ry="0" Rz="0" Ix="0" Iy="0" Iz="0" phase="0"/>
+                <irrep Rx="1" Ry="1" Rz="1" Ix="1" Iy="1" Iz="1"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="0" blue="0" spinRed="255" spinGreen="0" spinBlue="0"/>
+            </atom>
+            <atom label="MV3" userDefined="false" rigidBody="false">
+                <position x="0" y="0" z="0.358"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <magneticMoment Rx="1.94" Ry="0" Rz="0" Ix="0" Iy="0" Iz="0" phase="0"/>
+                <irrep Rx="1" Ry="1" Rz="1" Ix="1" Iy="1" Iz="1"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="0" blue="0" spinRed="255" spinGreen="0" spinBlue="0"/>
+            </atom>
+            <atom label="MV3" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.268"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <magneticMoment Rx="1.48" Ry="0" Rz="0" Ix="0" Iy="0" Iz="0" phase="0"/>
+                <irrep Rx="1" Ry="1" Rz="1" Ix="1" Iy="1" Iz="1"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="0" blue="0" spinRed="255" spinGreen="0" spinBlue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.179" y="0.821" z="0.084"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.153" y="0.847" z="0.429"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.162" y="0.838" z="0.764"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.1"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+            <atom label="O" userDefined="false" rigidBody="false">
+                <position x="0.666667" y="0.333333" z="0.405"/>
+                <occupation occ="1"/>
+                <DW aniso="false" B="0" B11="0" B22="0" B33="0" B12="0" B13="0" B23="0"/>
+                <plot show="true" atomScale="10" spinScale="1" red="255" green="255" blue="0"/>
+            </atom>
+        </atoms>
+        <bondsAndPolyhedra number="1">
+            <bond>
+                <atoms atom1="O" atom2="O" addAtoms="true"/>
+                <distances minDistance="0.1" maxDistance="3"/>
+                <style type="0" bondRadius="0.06" alpha="0" show="true"/>
+                <color1 red="255" green="255" blue="0"/>
+                <color2 red="255" green="255" blue="0"/>
+                <polyhedra type="1" minimalDistance="0.3" edgeRadius="0.03">
+                    <faceColor red="255" green="255" blue="0" alpha="32"/>
+                    <edgeColor red="255" green="255" blue="0" alpha="0"/>
+                </polyhedra>
+            </bond>
+        </bondsAndPolyhedra>
+        <scaleAndExtinction scale="1" lambdaHalf="0" shelXtype="anisotropic" x="0" x11="0" x22="0" x33="0" x12="0" x23="0" x13="0" useBeckerCoppens="false" domainRadius="0" mosaicSpread="0" distribution="Lorentzian"/>
+        <twins number="1" tolerance="0.01">
+            <twin R11="1" R12="0" R13="0" R21="0" R22="1" R23="0" R31="0" R32="0" R33="1" population="1"/>
+        </twins>
+        <magneticDomains number="1">
+            <magneticDomain symmX="x" symmY="y" symmZ="z" timeInversion="false" chiral="false" kDomain="1" population="1"/>
+        </magneticDomains>
+    </sample>
+    <plotPreferences>
+        <cellBoundaries aMin="0" aMax="1" bMin="0" bMax="1" cMin="0" cMax="1"/>
+        <rotationMatrix R11="-0.81" R12="0.586" R13="0.027" R21="-0.173" R22="-0.281" R23="0.944" R31="0.561" R32="0.76" R33="0.329"/>
+        <lightRotationMatrix R11="1" R12="0" R13="0" R21="0" R22="1" R23="0" R31="0" R32="0" R33="1"/>
+        <visibleBox left="-13.08" right="13.08" bottom="-10.62" top="10.62"/>
+        <projectionType perspective="false" depth="-20" focus="-100"/>
+        <coordinateAxes scale="1" dx="0" dy="0">
+            <axesLabels fontSize="17" aDx="0" aDy="0.2" bDx="0" bDy="0.3" cDx="0" cDy="0.3"/>
+        </coordinateAxes>
+        <legend scale="1" dx="0" dy="0">
+            <legendLabels fontSize="17" dx="0" dy="0"/>
+        </legend>
+        <spins radius="0.07" coneRadius="0.3" coneLength="0.55"/>
+    </plotPreferences>
+    <instrument name="custom" wavelength="2.378" polarization="1" cellEfficiency="1">
+        <axes BLx="+x" BLy="+y" BLz="+z"/>
+        <geometry mode="4 circle" diffractionDirection="right" chiQuadrant="0" blindReflectionAction="0"/>
+        <rotationSenses theta="CW" omega="CW" chi="CW" phi="CW" nu="CW"/>
+        <orientationMatrix UB11="0.1821" UB12="0.08322" UB13="-0.002363" UB21="0.09101" UB22="0.03671" UB23="-0.17452" UB31="-0.031751" UB32="0.069414" UB33="-0.00195"/>
+        <verticalSampleAxis h="0.45" k="-0.89" l="-0.04"/>
+        <limitsAndOffsets>
+            <theta min="0" max="180" offset="0"/>
+            <omega min="-180" max="180" offset="0"/>
+            <chi min="-180" max="180" offset="0"/>
+            <phi min="-180" max="180" offset="0"/>
+            <nu min="-20" max="20" offset="0"/>
+        </limitsAndOffsets>
+    </instrument>
+</mag2polSampleFile>
